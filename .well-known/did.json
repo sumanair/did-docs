@@ -1,19 +1,19 @@
 {
-    "did": "did:web:https://github.com/sumanair/did-docs/blob/main",
+    "did": "did:web:github.com:sumanair:did-docs:blob:main",
     "didDocument": {
         "@context": [
             "https://www.w3.org/ns/did/v1",
             "https://w3id.org/security/suites/ed25519-2020/v1"
         ],
-        "id": "did:web:https://github.com/sumanair/did-docs/blob/main",
-        "created": "2022-06-03T11:46:29.627Z",
-        "updated": "2022-06-03T11:46:29.627Z",
+        "id": "did:web:github.com:sumanair:did-docs:blob:main",
+        "created": "2022-06-06T14:24:19.184Z",
+        "updated": "2022-06-06T14:24:19.184Z",
         "verificationMethod": [
             {
                 "type": "Ed25519VerificationKey2020",
-                "publicKeyMultibase": "z6MkiMzPkSwVwrG6yza8h32HRdka3G9vGEp5FwFy71TD3DqE",
-                "id": "did:web:https://github.com/sumanair/did-docs/blob/main#AcYB1vNVF",
-                "controller": "did:web:https://github.com/sumanair/did-docs/blob/main"
+                "publicKeyMultibase": "z6MkqrJwsEiCHqvyaTT4utg5LpqQFT9YejcLrMBL33WeVxdX",
+                "id": "did:web:github.com:sumanair:did-docs:blob:main#yv7Jrxk1M",
+                "controller": "did:web:github.com:sumanair:did-docs:blob:main"
             }
         ],
         "authentication": [],
